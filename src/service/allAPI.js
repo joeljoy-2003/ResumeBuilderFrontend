@@ -1,5 +1,5 @@
 import commonAPI from "./commonAPI"
-import BASEURL from "./serverurl"
+import BASEURL from "./serverURL"
 
 //1. add resume - POST - steps component
 
